@@ -1,0 +1,12 @@
+PODS:
+  - PratikFramework (0.1.0)
+
+DEPENDENCIES:
+  - PratikFramework
+
+SPEC CHECKSUMS:
+  PratikFramework: dfce87f75bf19ad546f5dccfda7d83ca9c1005d2
+
+PODFILE CHECKSUM: e24c1a5b368a6ad5cae6295bb11fd49a23817f54
+
+COCOAPODS: 1.2.0

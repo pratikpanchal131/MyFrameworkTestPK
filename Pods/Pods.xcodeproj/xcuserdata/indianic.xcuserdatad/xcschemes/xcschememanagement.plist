@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-MyFrameworkTestPK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MyFrameworkTestPKTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MyFrameworkTestPKUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>PratikFramework-PratikFramework.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>PratikFramework.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3FBE364DFE93D7259F1A93BEA67A8AB9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7DAF8ABE51719D7D4522A2BF22624D62</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>80D969033A0863C789435D2F2E78A8DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B2D3A810F33BAB734CA8C6087F6B8FCC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BFF605FBBB7B50975A7482E4E4A18F06</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

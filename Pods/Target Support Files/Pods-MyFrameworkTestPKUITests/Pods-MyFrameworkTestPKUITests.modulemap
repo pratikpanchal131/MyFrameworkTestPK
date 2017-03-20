@@ -1,0 +1,6 @@
+framework module Pods_MyFrameworkTestPKUITests {
+  umbrella header "Pods-MyFrameworkTestPKUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
